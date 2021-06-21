@@ -1,1 +1,1 @@
-# Image-Completion
+# Image Completion using Autoencoders
