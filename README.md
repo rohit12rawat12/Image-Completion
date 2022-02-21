@@ -5,4 +5,5 @@
 In the given below image, the left image(noisy) is the modified image and the image right(reconstructed) to it is the output of the autoencoder.
 
 <img src = "Images/ss.png" width = 800>
-> I used 4 layer(748, 300, 150, 300, 784) autoencoder.
+
+I used 4 layer(748, 300, 150, 300, 784) autoencoder.
